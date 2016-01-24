@@ -42,7 +42,7 @@ namespace OneDriveSample.SyncTask
                     }
                 }
             }
-
+        
             deferral.Complete();
         }
     }
